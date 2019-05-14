@@ -1,2 +1,2 @@
-# Gitbooktest
-Making a testproject for gitbooks
+# Initial page
+
